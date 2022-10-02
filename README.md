@@ -37,4 +37,5 @@
           <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
      </a>
 </div>
+
 - 📫  amadeoisellacacciagiu@gmail.com
