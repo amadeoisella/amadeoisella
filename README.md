@@ -40,6 +40,6 @@
 
 - <div id='badges' align="left">
      <a href="https://www.linkedin.com/in/francisco-messina/">
-          <img src="https://user-images.githubusercontent.com/5141132/50740487-59b49500-1219-11e9-99ad-dbad6729875b.png" alt="gmail badge"/>
+          <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="gmail badge"/>
      </a>
 </div>
