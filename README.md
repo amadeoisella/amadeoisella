@@ -38,8 +38,8 @@
      </a>
 </div>
 
-- 📫  <div id='badges' align="left">
+- <div id='badges' align="left">
      <a href="amadeoisellacacciagiu@gmail.com">
-       <img src="assets/icon.svg" width="112" height="112" alt="" align="right">
+       <img src="media/icon.svg" width="200" height="200">>
   </a>
 </div>
