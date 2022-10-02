@@ -35,4 +35,4 @@ Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
 ### Contact me:
 
 - 👨‍💼 [https://www.linkedin.com/in/amadeo-isella/](https://www.linkedin.com/in/amadeo-isella/)
-- 📫 amadeoisellacacciagiu@gmail.com
+- 📫  amadeoisellacacciagiu@gmail.com
