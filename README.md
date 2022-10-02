@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -32,10 +32,6 @@
 
 ### Contact me:
 
-- <div id='badges' align="left">
-     <a href="https://www.linkedin.com/in/francisco-messina/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
-     </a>
-</div>
+-  <a href="https://www.linkedin.com/in/amadeo-isella/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/> </a>
 
-- <img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
+- <a href="amadeoisellacacciagiu@gmail.com"> <img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> </a>
