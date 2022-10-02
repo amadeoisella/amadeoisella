@@ -33,13 +33,13 @@
 ### Contact me:
 
 - <div id='badges' align="left">
-     <a href="https://www.linkedin.com/in/amadeo-isella/">
+     <a href="https://www.linkedin.com/in/francisco-messina/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
      </a>
 </div>
 
 - <div id='badges' align="left">
-     <a href="amadeoisellacacciagiu@gmail.com">
-       <img src="media/icon.svg" width="200" height="200">>
-  </a>
+     <a href="https://www.linkedin.com/in/francisco-messina/">
+          <img src="https://user-images.githubusercontent.com/5141132/50740487-59b49500-1219-11e9-99ad-dbad6729875b.png" alt="gmail badge"/>
+     </a>
 </div>
