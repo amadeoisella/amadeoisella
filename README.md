@@ -1,4 +1,4 @@
-### 👋 Digital Nomad + MERN Web Developer  
+### 👋 Digital Nomad + Web Developer  
 
 
 
