@@ -32,7 +32,7 @@
 
 ### Contact me:
 
-- 👨‍💼 <div id='badges' align="left">
+- <div id='badges' align="left">
      <a href="https://www.linkedin.com/in/amadeo-isella/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
      </a>
