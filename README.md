@@ -1,6 +1,7 @@
 ### 👋 Digital Nomad + MERN Web Developer  
 
 
+
 Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
 
 👀 I’m interested in learning more about coding to be able to build amazing apps.
@@ -29,7 +30,7 @@ Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
 </div>
 
-
+---
 
 ### Contact me:
 
