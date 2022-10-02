@@ -1,8 +1,6 @@
-### 👋 Digital Nomad + Web Developer  
+### About me: 
 
-
-
-Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
+👋 Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
 
 👀 I’m interested in learning more about coding to be able to build amazing apps.
 
@@ -34,5 +32,9 @@ Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
 
 ### Contact me:
 
-- 👨‍💼 [https://www.linkedin.com/in/amadeo-isella/](https://www.linkedin.com/in/amadeo-isella/)
+- 👨‍💼 <div id='badges' align="left">
+     <a href="https://www.linkedin.com/in/amadeo-isella/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
+     </a>
+</div>
 - 📫  amadeoisellacacciagiu@gmail.com
