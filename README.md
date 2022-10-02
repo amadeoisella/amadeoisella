@@ -34,4 +34,4 @@
 
 -  <a href="https://www.linkedin.com/in/amadeo-isella/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/> </a>
 
-- <a href="amadeoisellacacciagiu@gmail.com"> <img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> </a>
+- <img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> amadeoisellacacciagiu@gmail.com
