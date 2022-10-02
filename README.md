@@ -5,7 +5,7 @@ Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
 👀 I’m interested in learning more about coding to be able to build amazing apps.
 
 - 🔭 I’m currently working on new side projects
-- 🌱 I’m currently learning to Technology
+- 🌱 I’m currently learning to programming and cybersecurity
 - 👯 I’m looking to collaborate on new side projects
 
 🛠  Languages and Tools :
@@ -22,6 +22,7 @@ Hi, I’m Amadeo, a MERN full stack web developer from Cordoba, Argentina.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
 </div>
 
 
