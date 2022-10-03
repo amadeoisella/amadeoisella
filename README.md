@@ -5,7 +5,6 @@
 👀 I’m interested in learning more about coding to be able to build amazing apps.
 
 - 🔭 I’m currently working on new side projects
-- 🌱 I’m currently learning to programming and cybersecurity
 - 👯 I’m looking to collaborate on new side projects
 
 ---
