@@ -15,7 +15,7 @@ Committed to continuous learning and teamwork to achieve exceptional results.
   - Oracle
 - 🤝 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
-- Outside tech, I am passionate about adventure racing and rock climbing. I also enjoy playing the bass guitar and sharing good times with friends and family.
+- 🧘‍♂️ Outside tech, I am passionate about adventure racing and rock climbing. I also enjoy playing the bass guitar and sharing good times with friends and family.
 
 ## Technologies
 <span> 
