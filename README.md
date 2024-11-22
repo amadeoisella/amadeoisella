@@ -18,7 +18,7 @@ Committed to continuous learning and teamwork to achieve exceptional results.
 - 📫 Reach out to me at <a href="https://www.linkedin.com/in/amadeo-isella/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="amadeoisella" height="60" width="70" /></a>
 
 
-## Technologies
+### Technologies
 <span> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -44,6 +44,6 @@ Committed to continuous learning and teamwork to achieve exceptional results.
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </span>
 
-## ⚙️ GitHub Analytics
+### ⚙️ GitHub Analytics
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amadeoisella&theme=dark" alt="amadeoisella" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeoisella&show_icons=true&theme=dark&locale=en&layout=compact" alt="amadeoisella" /></p>
