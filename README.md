@@ -15,7 +15,8 @@ Committed to continuous learning and teamwork to achieve exceptional results.
   - Oracle Cloud
 - 🤝 I’m looking forward to collaborate on open source projects.
 - 🧘‍♂️ Outside tech, I am passionate about adventure racing and rock climbing. I also enjoy playing the bass guitar and sharing good times with friends and family.
-- 📫 Reach out to me at <a href="https://www.linkedin.com/in/amadeo-isella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="amadeoisella" height="30" width="40" /></a>
+- 📫 Reach out to me at <a href="https://www.linkedin.com/in/amadeo-isella/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="amadeoisella" height="60" width="70" /></a>
+
 
 ## Technologies
 <span> 
