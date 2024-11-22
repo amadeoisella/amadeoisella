@@ -12,10 +12,10 @@ Committed to continuous learning and teamwork to achieve exceptional results.
 
 - 🌱 I’m currently learning ...
   - AWS
-  - Oracle
+  - Oracle Cloud
 - 🤝 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help.
 - 🧘‍♂️ Outside tech, I am passionate about adventure racing and rock climbing. I also enjoy playing the bass guitar and sharing good times with friends and family.
+- 📫 Reach out to me at <a href="https://www.linkedin.com/in/amadeo-isella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="amadeoisella" height="30" width="40" /></a>
 
 ## Technologies
 <span> 
@@ -44,5 +44,5 @@ Committed to continuous learning and teamwork to achieve exceptional results.
 </span>
 
 ## ⚙️ GitHub Analytics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeoisella&show_icons=true&theme=dark&locale=en&layout=compact" alt="amadeoisella" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amadeoisella&theme=dark" alt="amadeoisella" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeoisella&show_icons=true&theme=dark&locale=en&layout=compact" alt="amadeoisella" /></p>
