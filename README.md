@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Amadeo Isella </b><</h1>
+<h1 align="center"><b>Hi , I'm Amadeo Isella 🤝</b></h1>
 <!--  -->
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
